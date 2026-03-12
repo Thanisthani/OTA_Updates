@@ -1,5 +1,5 @@
 {
-  "version": "0.0.18",
+  "version": "0.0.16",
   "force_update": true,
   "apk": {
     "arm64-v8a": "https://thanisthani.github.io/OTA_Updates/app/app-arm64-v8a-release.apk",
